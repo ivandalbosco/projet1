@@ -1,5 +1,4 @@
 Une jolie ligne
 Autre ligne
 Une troisième ligne
-Branche 4
 Une quatrième ligne
